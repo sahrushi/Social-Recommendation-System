@@ -1,0 +1,27 @@
+.first-box{
+    background-color: #70aaaa;
+    font-family: "montserrat";
+    padding: 3rem;
+    
+    width: 50%;
+    position: relative;
+    top: 180px;
+    left: 25%;
+}
+body{
+    background-color: #eaf6f6;
+}
+.returnHome{
+    position: relative;
+    top: 220px;
+    left: 45%;
+}
+.topInterest{
+    font-family: 'Merriweather', serif;  
+    font-weight: bolder;
+}
+.interest{
+    font-family: 'Merriweather', serif;
+    font-size: large;
+    font-weight: 600 ;
+}

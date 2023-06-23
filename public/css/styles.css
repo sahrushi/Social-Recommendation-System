@@ -1,0 +1,101 @@
+.first-container {
+    background-color: black;
+    padding: 3rem;
+    padding-left: 5rem;
+    padding-bottom: 170px;
+  }
+  .third-container {
+    background-color: #EEEEEE;
+    padding: 5rem;
+    padding-top: 2rem;
+    color: black;
+  }
+  body {
+    color: #fff;
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+  }
+  .title-text {
+    margin: 3rem auto;
+    font-family: 'GFS Didot', serif;
+    font-size: 3rem;
+  
+  }
+  .brand-name {
+   
+    font-size: 3rem;
+   font-family: 'Rubik Iso', cursive;
+  
+    color: #9fa385;
+    margin-bottom: 3rem;
+    font-family: "EB Garamond", serif;
+  }
+  .brand-name:hover{
+      color: rgb(176, 103, 13);
+    
+  }
+  .user-picture {
+    position: absolute;
+    right: 50px;
+    width: 50%;
+    top: 160px;
+    
+  
+  }
+  .text-container{
+      width: 45%;
+      margin-top: 4rem;
+  }
+  .gift{
+      font-size: 1.2rem;
+      line-height: 2;
+  }
+  .second-container{
+      background-color: #EEEEEE;
+      padding: 5rem;
+      color: black;
+     
+  }
+  .nav-link{
+    text-decoration: none;
+    font-family: "EB Garamond", serif;
+    font-size: 2rem;
+    color: #9fa385;
+    padding: 0 2rem;
+    position: relative;
+    bottom: 1rem;
+  
+  
+  }
+  .nav-link:hover{
+    color: rgb(176, 103, 13);
+   
+  }
+  .right-align{
+    margin-left: 55%;
+  }
+  .search-text{
+    font-size: large;
+    font-weight: bold;
+  }
+  .reset-button{
+    margin-left: 3rem;
+    
+  }
+  .para {
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 0;
+  }
+  .pok {
+    font-size: medium;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    color: black;
+    cursor: pointer;
+  }
+  .fourth-container{
+    padding: 3rem 0 3rem;
+    text-align: center;
+    background-color: #4e6e81;
+  }
